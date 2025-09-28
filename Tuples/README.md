@@ -1,0 +1,1 @@
+Tuples are ordered collection of items which are immutable. They are similar to lists but their immutability makes them different.
