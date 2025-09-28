@@ -12,3 +12,10 @@ print(fruits[1:3])
 print(fruits[-1:])
 print(fruits[-1:-3])
 print(fruits[-1:3])
+
+
+popped_fruit = fruits.pop()
+print(popped_fruit)
+
+fruits.insert(1,'melon')
+print(fruits)
