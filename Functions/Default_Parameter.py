@@ -1,0 +1,5 @@
+# Default parameter
+def greet(name="Guest"):
+    print(f"Hello {name}, Welcome to Goa")
+
+greet()
